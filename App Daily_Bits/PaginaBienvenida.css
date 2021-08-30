@@ -1,0 +1,73 @@
+.mediaViewInfo {
+    --web-view-name: Bienvenida;
+    --web-view-id: Bienvenida;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Bienvenida;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Bienvenida {
+    position: absolute;
+    width: 2087px;
+    height: 1027px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Bienvenida;
+    --web-view-id: Bienvenida;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+.Rect_ngulo_2 {
+    position: absolute;
+    overflow: visible;
+    width: 2087px;
+    height: 1027px;
+    left: 0px;
+    top: 0px;
+}
+#Imagen_1 {
+    position: absolute;
+    width: 486px;
+    height: 862px;
+    left: 801px;
+    top: 83px;
+    overflow: visible;
+}
+#Registrarme {
+    position: absolute;
+    width: 348px;
+    height: 135.5px;
+    left: 870px;
+    top: 787px;
+    overflow: visible;
+    background-color: #7F5AF0;
+    font-size: 50px;
+}
+#IniciarSesion {
+    position: absolute;
+    width: 341.5px;
+    height: 134px;
+    left: 873px;
+    top: 110px;
+    overflow: visible;
+    background-color: #7F5AF0;
+    font-size: 50px;
+}
+
+#IniciarSesion:hover{
+
+    background-color: rgb(255, 255, 255);
+    color: #7F5AF0;
+}
+#Registrarme:hover{
+
+    background-color: rgb(255, 255, 255);
+    color: #7F5AF0;
+}

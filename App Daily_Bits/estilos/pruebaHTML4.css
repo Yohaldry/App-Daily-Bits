@@ -1,0 +1,277 @@
+.mediaViewInfo {
+    --web-view-name: Menu – 5;
+    --web-view-id: Menu___5;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Menu___5;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Menu___5 {
+    position: absolute;
+    width: 2087px;
+    height: 1027px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Menu – 5;
+    --web-view-id: Menu___5;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+.Rect_ngulo_3 {
+    position: absolute;
+    overflow: visible;
+    width: 2087px;
+    height: 1027px;
+    left: 0px;
+    top: -5px;
+}
+.Rect_ngulo_7 {
+    position: absolute;
+    overflow: visible;
+    width: 459px;
+    height: 812px;
+    left: 814px;
+    top: 127px;
+}
+#__Que_tecnolog_a_Pertenece_al_ {
+    transform: matrix(1,0,0,1,849.6892,218.9729) rotate(0deg);
+    transform-origin: center;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 379px;
+    height: 100px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+#uno {
+    position: absolute;
+    width: 145.5px;
+    height: 125px;
+    left: 862px;
+    top: 347px;
+    overflow: visible;
+}
+#dos {
+    position: absolute;
+    width: 153px;
+    height: 131px;
+    left: 1083px;
+    top: 348px;
+    overflow: visible;
+}
+#tres {
+    position: absolute;
+    width: 158.5px;
+    height: 137px;
+    left: 850px;
+    top: 588px;
+    overflow: visible;
+}
+#cuatro {
+    position: absolute;
+    width: 152px;
+    height: 131px;
+    left: 1084px;
+    top: 594px;
+    overflow: visible;
+}
+.Rect_ngulo_36 {
+    position: absolute;
+    overflow: visible;
+    width: 186px;
+    height: 237px;
+    left: 846px;
+    top: 319px;
+}
+.Rect_ngulo_36:hover{
+
+    background-color: rgb(255, 255, 255);
+    opacity: 0.1;
+}
+.Rect_ngulo_39:hover{
+
+    background-color: rgb(255, 255, 255);
+    opacity: 0.1;
+}
+.Rect_ngulo_40:hover{
+
+    background-color: rgb(255, 255, 255);
+    opacity: 0.1;
+}
+.Rect_ngulo_41:hover{
+
+    background-color: rgb(255, 255, 255);
+    opacity: 0.1;
+}
+
+#Vue_js {
+    position: absolute;
+    left: 906px;
+    top: 500px;
+    overflow: visible;
+    width: 93px;
+    height: 42px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Angular {
+    position: absolute;
+    left: 1114px;
+    top: 500px;
+    overflow: visible;
+    width: 93px;
+    height: 42px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+.Rect_ngulo_39 {
+    position: absolute;
+    overflow: visible;
+    width: 186px;
+    height: 237px;
+    left: 1066px;
+    top: 319px;
+}
+.Rect_ngulo_40 {
+    position: absolute;
+    overflow: visible;
+    width: 186px;
+    height: 237px;
+    left: 842px;
+    top: 576px;
+}
+.Rect_ngulo_41 {
+    position: absolute;
+    overflow: visible;
+    width: 186px;
+    height: 237px;
+    left: 1067px;
+    top: 576px;
+}
+#Kotlin {
+    position: absolute;
+    left: 906px;
+    top: 753px;
+    overflow: visible;
+    width: 93px;
+    height: 42px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Windows {
+    position: absolute;
+    left: 1104px;
+    top: 754px;
+    overflow: visible;
+    width: 114px;
+    height: 42px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+
+#Comprobar {
+    position: absolute;
+    left: 983px;
+    top: 859px;
+    overflow: visible;
+    width: 139px;
+    height: 42px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+.Rect_ngulo_9 {
+    position: absolute;
+    overflow: visible;
+    width: 303px;
+    height: 29px;
+    left: 864px;
+    top: 144px;
+}
+#X {
+    transform: matrix(1,0,0,1,835.6895,134.9729) rotate(0deg);
+    transform-origin: center;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+    width: 29px;
+    height: 38px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(120,120,120,1);
+}
+#meGusta {
+    position: absolute;
+    width: 39px;
+    height: 38px;
+    left: 1189px;
+    top: 145px;
+    overflow: visible;
+}
+#ID2 {
+    transform: matrix(1,0,0,1,1235.6895,148.9729) rotate(0deg);
+    transform-origin: center;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 19px;
+    height: 31px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+}
+.Rect_ngulo_27 {
+    position: absolute;
+    overflow: visible;
+    width: 288px;
+    height: 29px;
+    left: 864px;
+    top: 144px;
+}
+
+.btn-outline-info{
+
+    left: 0px;
+    width: 200px;
+}
+

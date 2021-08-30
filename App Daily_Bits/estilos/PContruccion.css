@@ -1,0 +1,87 @@
+.mediaViewInfo {
+    --web-view-name: Construccion;
+    --web-view-id: Construccion;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Construccion;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Construccion {
+    position: absolute;
+    width: 2087px;
+    height: 1027px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Construccion;
+    --web-view-id: Construccion;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+.Rect_ngulo_3 {
+    position: absolute;
+    overflow: visible;
+    width: 2087px;
+    height: 1027px;
+    left: 0px;
+    top: 0px;
+}
+.Rect_ngulo_7 {
+    position: absolute;
+    overflow: visible;
+    width: 459px;
+    height: 812px;
+    left: 814px;
+    top: 127px;
+}
+#PaginaEnConstruccion {
+    position: absolute;
+    width: 436.5px;
+    height: 657.5px;
+    left: 825px;
+    top: 204px;
+    overflow: visible;
+}
+#Sitio_en_Construcci_n {
+    position: absolute;
+    left: 861px;
+    top: 699px;
+    overflow: visible;
+    width: 281px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+
+#Guardar {
+    position: absolute;
+    left:849px;
+    top: 843px;
+    overflow: visible;
+    width: 121px;
+    height: 48px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+  
+    color: rgba(255,255,255,1);
+}
+
+.btn-primary{
+  
+    width:390px;
+    height: 50px;
+   
+    
+}

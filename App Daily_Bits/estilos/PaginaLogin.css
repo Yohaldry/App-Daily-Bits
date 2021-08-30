@@ -1,0 +1,243 @@
+.mediaViewInfo {
+    --web-view-name: Pantalla 1;
+    --web-view-id: Pantalla_1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Pantalla_1;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+.btn-primary{
+  
+    width:290px;
+    height: 50px;
+    
+}
+
+#iniciarSesion {
+    position: absolute;
+    left: 900px;
+    top: 615px;
+    overflow: visible;
+    width: 155px;
+    height: 37px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    z-index: 2;
+}
+
+#correo {
+    position: absolute;
+    left: 424px;
+    top: 238px;
+    overflow: visible;
+    width: 390px;
+    height: 50px;
+    text-align: left;
+    font-size: 25px;
+    color: rgb(29, 29, 29);
+    border-radius: 20px;
+    z-index: 2;
+}
+
+#contraseña{
+    position: absolute;
+    left: 424px;
+    top: 274px;
+    overflow: visible;
+    width: 390px;
+    height: 50px;
+    text-align: left;
+    font-size: 25px;
+    color: rgb(29, 29, 29);
+    border-radius: 20px;
+    z-index: 2;
+}
+#iniciar{
+
+    position: absolute;
+    left: 1100px;
+    top: 724px;
+    width: 150px;
+    height: 46px;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    z-index: 2;
+
+}
+#Pantalla_1 {
+    position: absolute;
+    width: 2087px;
+    height: 1027px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Pantalla 1;
+    --web-view-id: Pantalla_1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+.Rect_ngulo_3 {
+    position: absolute;
+    overflow: visible;
+    width: 2087px;
+    height: 1027px;
+    left: 0px;
+    top: 0px;
+}
+#Imagen_3 {
+    position: absolute;
+    width: 129px;
+    height: 115px;
+    left: 981px;
+    top: 155px;
+    overflow: visible;
+    z-index: 2;
+}
+.Rect_ngulo_4 {
+    position: absolute;
+    overflow: visible;
+    width: 411px;
+    height: 56px;
+    left: 840px;
+    top: 382px;
+    z-index: 2;
+}
+#Iniciar_sesion {
+    position: absolute;
+    left: 907px;
+    top: 288px;
+    overflow: visible;
+    width: 278px;
+    height: 64px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    color: rgba(255,255,255,1);
+}
+#Continuar_con_Google {
+    position: absolute;
+    left: 936px;
+    top: 392px;
+    overflow: visible;
+    width: 291px;
+    height: 54px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    z-index: 2;
+}
+#Imagen3 {
+    position: absolute;
+    width: 48px;
+    height: 52px;
+    left: 876px;
+    top: 386px;
+    overflow: visible;
+    z-index: 2;
+}
+.L_nea_1 {
+    overflow: visible;
+    position: absolute;
+    width: 411px;
+    height: 1px;
+    left: 840.5px;
+    top: 460.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Rect_ngulo_6 {
+    position: absolute;
+    overflow: visible;
+    width: 411px;
+    height: 55px;
+    left: 840px;
+    top: 487px;
+}
+#Ingresar_correo_electronico {
+    position: absolute;
+    left: 861px;
+    top: 497px;
+    overflow: visible;
+    width: 366px;
+    height: 36px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(162,162,162,1);
+    
+}
+#_Se_te_olvido_tu_contrase_a_ {
+    position: absolute;
+    left: 885px;
+    top: 671px;
+    overflow: visible;
+    width: 319px;
+    height: 36px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(3,133,20,1);
+    z-index: 2;
+}
+#_Aun_no_tienes_cuenta___Inscri {
+    position: absolute;
+    left: 844px;
+    top: 725px;
+    overflow: visible;
+    width: 400px;
+    height: 36px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(3,133,20,1);
+}
+.Rect_ngulo_7 {
+    position: absolute;
+    overflow: visible;
+    width: 459px;
+    height: 812px;
+    left: 814px;
+    top: 127px;
+}
+.Rect_ngulo_8 {
+    position: absolute;
+    overflow: visible;
+    width: 262px;
+    height: 54px;
+    left: 915px;
+    top: 563px;
+}
+#Iniciar_Sesion {
+    position: absolute;
+    left: 972px;
+    top: 572px;
+    overflow: visible;
+    width: 162px;
+    height: 37px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}

@@ -1,0 +1,147 @@
+{
+  "niveles": [
+    {
+      "positivo1": 1,
+      "positivo2": 1,
+      "positivo3": 1,
+      "positivo4": 1,
+      "negativo1": 0,
+      "negativo2": 0,
+      "negativo3": 0,
+      "negativo4": 0,
+      "id": 1
+    },
+    {
+      "positivo1": 0,
+      "positivo2": 0,
+      "positivo3": 0,
+      "positivo4": 0,
+      "negativo1": 0,
+      "negativo2": 0,
+      "negativo3": 0,
+      "negativo4": 0,
+      "id": 2
+    },
+    {
+      "positivo1": 0,
+      "positivo2": 0,
+      "positivo3": 0,
+      "positivo4": 0,
+      "negativo1": 0,
+      "negativo2": 0,
+      "negativo3": 0,
+      "negativo4": 0,
+      "id": 3
+    },
+    {
+      "positivo1": 1,
+      "positivo2": 0,
+      "positivo3": 0,
+      "positivo4": 0,
+      "negativo1": 0,
+      "negativo2": 1,
+      "negativo3": 1,
+      "negativo4": 1,
+      "id": 4
+    },
+    {
+      "positivo1": 1,
+      "positivo2": 1,
+      "positivo3": 1,
+      "positivo4": 0,
+      "negativo1": 0,
+      "negativo2": 0,
+      "negativo3": 0,
+      "negativo4": 1,
+      "id": 5
+    },
+    {
+      "positivo1": 0,
+      "positivo2": 0,
+      "positivo3": 0,
+      "positivo4": 0,
+      "negativo1": 0,
+      "negativo2": 0,
+      "negativo3": 0,
+      "negativo4": 0,
+      "id": 6
+    },
+    {
+      "positivo1": 0,
+      "positivo2": 0,
+      "positivo3": 0,
+      "positivo4": 0,
+      "negativo1": 0,
+      "negativo2": 0,
+      "negativo3": 0,
+      "negativo4": 0,
+      "id": 7
+    },
+    {
+      "positivo1": 0,
+      "positivo2": 0,
+      "positivo3": 0,
+      "positivo4": 0,
+      "negativo1": 0,
+      "negativo2": 0,
+      "negativo3": 0,
+      "negativo4": 0,
+      "id": 8
+    },
+    {
+      "positivo1": 1,
+      "positivo2": 0,
+      "positivo3": 0,
+      "positivo4": 0,
+      "negativo1": 0,
+      "negativo2": 1,
+      "negativo3": 1,
+      "negativo4": 1,
+      "id": 9
+    },
+    {
+      "positivo1": 0,
+      "positivo2": 1,
+      "positivo3": 1,
+      "positivo4": 1,
+      "negativo1": 1,
+      "negativo2": 0,
+      "negativo3": 0,
+      "negativo4": 0,
+      "id": 10
+    },
+    {
+      "positivo1": 1,
+      "positivo2": 0,
+      "positivo3": 0,
+      "positivo4": 0,
+      "negativo1": 0,
+      "negativo2": 1,
+      "negativo3": 1,
+      "negativo4": 1,
+      "id": 11
+    },
+    {
+      "positivo1": 0,
+      "positivo2": 0,
+      "positivo3": 0,
+      "positivo4": 0,
+      "negativo1": 0,
+      "negativo2": 0,
+      "negativo3": 0,
+      "negativo4": 0,
+      "id": 12
+    },
+    {
+      "positivo1": 1,
+      "positivo2": 1,
+      "positivo3": 1,
+      "positivo4": 1,
+      "negativo1": 0,
+      "negativo2": 0,
+      "negativo3": 0,
+      "negativo4": 0,
+      "id": 13
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+.mediaViewInfo {
+    --web-view-name: Menu – 1;
+    --web-view-id: Menu___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Menu___1;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+span{
+
+    border-color: chartreuse;
+}
+#Menu___1 {
+    position: absolute;
+    width: 2087px;
+    height: 1027px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Menu – 1;
+    --web-view-id: Menu___1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+.Rect_ngulo_3 {
+    position: absolute;
+    overflow: visible;
+    width: 2087px;
+    height: 1027px;
+    left: 0px;
+    top: 0px;
+}
+.Rect_ngulo_7 {
+    position: absolute;
+    overflow: visible;
+    width: 459px;
+    height: 812px;
+    left: 814px;
+    top: 127px;
+}
+#Mu_eco1 {
+    position: absolute;
+    width: 139.5px;
+    height: 287px;
+    left: 836px;
+    top: 211px;
+    overflow: visible;
+    transition: 0.5s;
+}
+#_Qu__etiqueta_es_sem_nticament {
+    transform: matrix(1,0,0,1,1000.6892,295.9729) rotate(0deg);
+    transform-origin: center;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 228px;
+    height: 140px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+.Rect_ngulo_9 {
+    position: absolute;
+    overflow: visible;
+    width: 303px;
+    height: 24px;
+    left: 864px;
+    top: 152px;
+}
+.Rect_ngulo_10 {
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    height: 24px;
+    left: 864px;
+    top: 152px;
+}
+#X {
+    transform: matrix(1,0,0,1,835.6895,134.9729) rotate(0deg);
+    transform-origin: center;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+    width: 29px;
+    height: 38px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(120,120,120,1);
+}
+.Rect_ngulo_11 {
+    position: absolute;
+    overflow: visible;
+    width: 386px;
+    height: 72px;
+    left: 851px;
+    top: 543px;
+}
+.Rect_ngulo_11:hover{
+
+    transform: rotate(10deg);
+    transition: 0.3s;
+}
+.Rect_ngulo_12:hover{
+
+    transform: rotate(10deg);
+    transition: 0.3s;
+}
+.Rect_ngulo_13:hover{
+
+    transform: rotate(10deg);
+    transition: 0.3s;
+}
+
+.Rect_ngulo_12 {
+    position: absolute;
+    overflow: visible;
+    width: 386px;
+    height: 72px;
+    left: 851px;
+    top: 635px;
+}
+.Rect_ngulo_13 {
+    position: absolute;
+    overflow: visible;
+    width: 386px;
+    height: 72px;
+    left: 851px;
+    top: 727px;
+}
+#Respuesta_1 {
+    transform: matrix(1,0,0,1,892.6895,558.9729) rotate(0deg);
+    transform-origin: center;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 306px;
+    height: 41px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Respuesta_2 {
+    transform: matrix(1,0,0,1,892.6895,650.9729) rotate(0deg);
+    transform-origin: center;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 406px;
+    height: 41px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Respuesta_3 {
+    transform: matrix(1,0,0,1,892.6895,742.9729) rotate(0deg);
+    transform-origin: center;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 406px;
+    height: 41px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+.Rect_ngulo_14 {
+    position: absolute;
+    overflow: visible;
+    width: 386px;
+    height: 45px;
+    left: 851px;
+    top: 829px;
+    
+}
+
+#meGusta {
+    position: absolute;
+    width: 39px;
+    height: 38px;
+    left: 1189px;
+    top: 145px;
+    overflow: visible;
+    transition: 0.5s;
+}
+#ID2 {
+    transform: matrix(1,0,0,1,1232.6895,151.9729) rotate(0deg);
+    transform-origin: center;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 19px;
+    height: 31px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+}
+
+img:hover{
+    transform: scale(1.15);
+    
+}
+
+[type=checkbox]{display:none;}
+
+label{
+
+    padding-left: 13.3rem;
+    position: relative;
+}
+
+label:before{
+
+    content: "";
+    border: solid 1px #9e9e9e;
+    border-radius: 1px;
+    width: 0.8rem;
+    height: 0.8rem;
+    position: absolute;
+    left: 0px;
+    transition: all 0.2s;
+    transform: rotate(0deg);
+    top: 0.5rem;
+}
+
+[type=checkbox]:checked + label:before{
+
+    border-color: #00e676;
+    color: #00e676;
+    content: '\f00c';
+    font-family: FontAwesome;
+    transform: rotate(360deg);
+    font-size: 40px;
+}
+
+#comprobar{
+
+    width: 400px;
+    
+
+    position: absolute;
+    left: 847px;
+      top: 830px;
+      overflow: visible;
+      height: 61px;
+      font-family: Segoe UI;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 25px;
+      color: rgba(255,255,255,1);
+      background-color: rgb(114, 114, 114);
+   
+}
+
+#comprobar:hover{
+
+    background-color: rgb(60, 117, 3);
+}
+
+.Rect_ngulo_9 {
+    position: absolute;
+    overflow: visible;
+    width: 303px;
+    height: 29px;
+    left: 864px;
+    top: 144px;
+}
+.Rect_ngulo_27 {
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    height: 29px;
+    left: 864px;
+    top: 144px;
+}

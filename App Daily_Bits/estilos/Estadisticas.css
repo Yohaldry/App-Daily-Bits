@@ -1,0 +1,337 @@
+.mediaViewInfo {
+    --web-view-name: Menu – 4;
+    --web-view-id: Menu___4;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Menu___4;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Menu___4 {
+    position: absolute;
+    width: 2087px;
+    height: 1027px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Menu – 4;
+    --web-view-id: Menu___4;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+.Rect_ngulo_3 {
+    position: absolute;
+    overflow: visible;
+    width: 2087px;
+    height: 1027px;
+    left: 0px;
+    top: -5px;
+}
+.Rect_ngulo_7 {
+    position: absolute;
+    overflow: visible;
+    width: 459px;
+    height: 812px;
+    left: 814px;
+    top: 127px;
+}
+#Organiza_la_estructura_de_un_d {
+    transform: matrix(1,0,0,1,849.6892,218.9729) rotate(0deg);
+    transform-origin: center;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 379px;
+    height: 100px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(255,255,255,1);
+}
+.Rect_ngulo_28 {
+    position: absolute;
+    overflow: visible;
+    width: 403px;
+    height: 59px;
+    left: 842px;
+    top: 406px;
+}
+.Rect_ngulo_15 {
+    position: absolute;
+    overflow: visible;
+    width: 459px;
+    height: 68px;
+    left: 814px;
+    top: 127px;
+}
+#Estadisticas {
+    position: absolute;
+    left: 842px;
+    top: 132px;
+    overflow: visible;
+    width: 373px;
+    height: 59px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+}
+#_ltimos_7_d_as {
+    transform: matrix(1,0,0,1,854.6895,360.9729) rotate(0deg);
+    transform-origin: center;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+    width: 190px;
+    height: 40px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(77,77,77,1);
+}
+.Rect_ngulo_33 {
+    position: absolute;
+    overflow: visible;
+    width: 403px;
+    height: 59px;
+    left: 842px;
+    top: 493px;
+}
+.Rect_ngulo_34 {
+    position: absolute;
+    overflow: visible;
+    width: 403px;
+    height: 59px;
+    left: 842px;
+    top: 580px;
+}
+.Rect_ngulo_35 {
+    position: absolute;
+    overflow: visible;
+    width: 403px;
+    height: 59px;
+    left: 842px;
+    top: 667px;
+}
+#relog {
+    position: absolute;
+    width: 37.5px;
+    height: 36px;
+    left: 862px;
+    top: 418px;
+    overflow: visible;
+}
+#ICONOCOMENTAR {
+    position: absolute;
+    width: 33.5px;
+    height: 36px;
+    left: 862px;
+    top: 505px;
+    overflow: visible;
+}
+#Tiempo_de_estudio__horas_ {
+    position: absolute;
+    left: 908px;
+    top: 420px;
+    overflow: visible;
+    width: 227px;
+    height: 34px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    color: rgba(255,255,255,1);
+}
+#ID0 {
+    position: absolute;
+    left: 1212px;
+    top: 418px;
+    overflow: visible;
+    width: 32px;
+    height: 34px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#Respuestas_Contestadas {
+    position: absolute;
+    left: 908px;
+    top: 503px;
+    overflow: visible;
+    width: 211px;
+    height: 34px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    color: rgba(255,255,255,1);
+}
+#ID0_ {
+    position: absolute;
+    left: 1214px;
+    top: 507px;
+    overflow: visible;
+    width: 32px;
+    height: 34px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#ICONOCOMENTAR_ {
+    position: absolute;
+    width: 33.5px;
+    height: 36px;
+    left: 862px;
+    top: 592px;
+    overflow: visible;
+}
+#Respuestas_Correctas {
+    position: absolute;
+    left: 908px;
+    top: 597px;
+    overflow: visible;
+    width: 211px;
+    height: 34px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    color: rgba(255,255,255,1);
+}
+#ID0_ba {
+    position: absolute;
+    left: 1214px;
+    top: 591px;
+    overflow: visible;
+    width: 32px;
+    height: 34px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(0,248,8,1);
+}
+#Respuestas_Incorrectas {
+    position: absolute;
+    left: 908px;
+    top: 682px;
+    overflow: visible;
+    width: 211px;
+    height: 34px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    color: rgba(255,255,255,1);
+}
+#ICONOCOMENTAR_ba {
+    position: absolute;
+    width: 33.5px;
+    height: 36px;
+    left: 862px;
+    top: 679px;
+    overflow: visible;
+}
+#ID0_bb {
+    position: absolute;
+    left: 1214px;
+    top: 678px;
+    overflow: visible;
+    width: 32px;
+    height: 34px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,0,0,1);
+}
+#iconoMenu {
+    position: absolute;
+    width: 60px;
+    height: 57.5px;
+    left: 1205px;
+    top: 132px;
+    overflow: visible;
+    transition: 0.5s;
+}
+
+#traerInfo{
+
+    width: 190px;
+    position: absolute;
+    left: 847px;
+      top: 830px;
+      overflow: visible;
+      height: 61px;
+      font-family: Segoe UI;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 25px;
+      color: rgba(255,255,255,1);
+      background-color: rgb(114, 114, 114);
+      border-radius: 89px;
+   
+}
+
+#traerInfo:hover{
+
+    background-color: rgb(60, 117, 3);
+}
+
+
+
+#segundoboton{
+
+    width: 190px;
+    position: absolute;
+    left: 1057px;
+      top: 830px;
+      overflow: visible;
+      height: 61px;
+      font-family: Segoe UI;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 25px;
+      color: rgba(255,255,255,1);
+      background-color: rgb(114, 114, 114);
+      border-radius: 89px;
+      z-index: 2;
+   
+}
+
+
+
+#segundoboton:hover{
+
+    background-color: rgb(60, 117, 3);
+}
+    
+img:hover{
+    transform: scale(1.15);
+    
+}

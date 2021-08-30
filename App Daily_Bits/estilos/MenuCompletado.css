@@ -1,0 +1,398 @@
+.mediaViewInfo {
+    --web-view-name: Menu;
+    --web-view-id: Menu;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Menu;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Menu {
+    position: absolute;
+    width: 2087px;
+    height: 1027px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Menu;
+    --web-view-id: Menu;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+.Rect_ngulo_3 {
+    position: absolute;
+    overflow: visible;
+    width: 2087px;
+    height: 1027px;
+    left: 0px;
+    top: 0px;
+}
+.Rect_ngulo_7 {
+    position: absolute;
+    overflow: visible;
+    width: 459px;
+    height: 812px;
+    left: 814px;
+    top: 127px;
+}
+#Practica_tus_conocimientos_en_ {
+    transform: matrix(1,0,0,1,865.6892,174.9729) rotate(0deg);
+    transform-origin: center;
+    position: absolute;
+    left: 0px;
+    top: 30px;
+    overflow: visible;
+    width: 356px;
+    height: 117px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+
+.Elipse_2 {
+    position: absolute;
+    overflow: visible;
+    width: 178px;
+    height: 176px;
+    left: 837px;
+    top: 480px;
+}
+.Elipse_3 {
+    position: absolute;
+    overflow: visible;
+    width: 178px;
+    height: 176px;
+    left: 1059px;
+    top: 480px;
+}
+.Elipse_4 {
+    position: absolute;
+    overflow: visible;
+    width: 178px;
+    height: 176px;
+    left: 837px;
+    top: 699px;
+}
+.Elipse_5 {
+    position: absolute;
+    overflow: visible;
+    width: 178px;
+    height: 176px;
+    left: 1059px;
+    top: 699px;
+}
+#HTML {
+    position: absolute;
+    left: 1015px;
+    top: 445px;
+    overflow: visible;
+    width: 84px;
+    height: 36px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#CSS {
+    position: absolute;
+    left: 897px;
+    top: 656px;
+    overflow: visible;
+    width: 84px;
+    height: 36px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#JavaScript {
+    position: absolute;
+    left: 1098px;
+    top: 656px;
+    overflow: visible;
+    width: 115px;
+    height: 36px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+#FIGMA {
+    position: absolute;
+    left: 888px;
+    top: 875px;
+    overflow: visible;
+    width: 115px;
+    height: 36px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: white;
+}
+#PYTHON {
+    position: absolute;
+    left: 1107px;
+    top: 875px;
+    overflow: visible;
+    width: 115px;
+    height: 36px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+}
+.Elipse_6 {
+    position: absolute;
+    overflow: visible;
+    width: 149px;
+    height: 149px;
+    left: 852px;
+    top: 494px;
+}
+#fotoCSS {
+    position: absolute;
+    width: 127px;
+    height: 126px;
+    left: 863px;
+    top: 506px;
+    overflow: visible;
+    border-radius: 70px;
+    transition: 0.5s;
+}
+
+#FotoHTML {
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    left: 985px;
+    top: 304px;
+    overflow: visible;
+    border-radius: 70px;
+    transition: 0.5s;
+    
+}
+img:hover{
+    transform: scale(1.15);
+    
+}
+
+.Elipse_8 {
+    position: absolute;
+    overflow: visible;
+    width: 149px;
+    height: 149px;
+    left: 1074px;
+    top: 494px;
+}
+#fotoJS {
+    position: absolute;
+    width: 127px;
+    height: 126px;
+    left: 1085px;
+    top: 505px;
+    overflow: visible;
+    border-radius: 70px;
+    transition: 0.5s;
+}
+.Elipse_9 {
+    position: absolute;
+    overflow: visible;
+    width: 149px;
+    height: 149px;
+    left: 852px;
+    top: 713px;
+}
+#foto_figma {
+    position: absolute;
+    width: 127px;
+    height: 126px;
+    left: 863px;
+    top: 725px;
+    overflow: visible;
+    border-radius: 70px;
+    transition: 0.5s;
+}
+.Elipse_10 {
+    position: absolute;
+    overflow: visible;
+    width: 149px;
+    height: 149px;
+    left: 1074px;
+    top: 713px;
+}
+#foto_pyton {
+    position: absolute;
+    width: 127px;
+    height: 126px;
+    left: 1085px;
+    top: 725px;
+    overflow: visible;
+    border-radius: 70px;
+    transition: 0.5s;
+}
+
+
+
+
+
+
+
+.box{
+  
+    position: relative;
+    width: 600px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+     align-items: center;
+    box-shadow: 0 30px 60px rgba(0,0,0,.2);
+  }
+  
+  .box .percent{
+    
+    position: relative;
+    width: 750px;
+    height:10px;
+    left: 965px;
+    top: 0px;
+    margin-bottom: 130px;
+  }
+  
+  .box .percent svg{
+    
+    position: relative;
+    width: 150px;
+    height: 150px;
+  }
+  
+  .box .percent svg circle{
+    
+    width: 150px;
+    height: 150px;
+    fill: none;
+    stroke-width: 10;
+    stroke: #000;
+    transform: translate(5px,5px);
+    stroke-dasharray: 440;
+    stroke-dashoffset: 440;
+    stroke-linecap: round;
+  }
+  
+  .box .percent svg circle:nth-child(1){
+   
+    stroke-dashoffset: 0;
+    stroke: #ffffff;
+    
+  }
+
+  /* Mostrando pooorcentajeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee */
+  .box .percent svg circle:nth-child(2){
+    
+    stroke-dashoffset: calc(440 - (440 * 100) / 100);
+    stroke: #0b7914;
+  }
+  
+  .box .percent .number{
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #111;
+  }
+  
+  .box .percent .number h2{
+    
+    font-size: 48px;
+  }
+  
+  .box .percent .number h2 span{
+    
+    font-size: 20px;
+  }
+
+
+
+
+
+
+
+
+  .Rect_ngulo_15 {
+    position: absolute;
+    overflow: visible;
+    width: 459px;
+    height: 68px;
+    left: 814px;
+    top: 127px;
+}
+#Menu_ {
+    position: absolute;
+    left: 1001px;
+    top: 127px;
+    overflow: hidden;
+    width: 141px;
+    height: 36px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    color: rgba(255,255,255,1);
+}
+.Rect_ngulo_18 {
+    position: absolute;
+    overflow: visible;
+    width: 78px;
+    height: 68px;
+    left: 813px;
+    top: 127px;
+}
+#iconoPerfil {
+    position: absolute;
+    width: 51.5px;
+    height: 49.5px;
+    left: 824px;
+    top: 136px;
+    overflow: visible;
+    transition: 0.5s;
+}
+.Rect_ngulo_19 {
+    position: absolute;
+    overflow: visible;
+    width: 78px;
+    height: 68px;
+    left: 1195px;
+    top: 127px;
+}
+#IconoSalir {
+    position: absolute;
+    width: 56.5px;
+    height: 53.5px;
+    left: 1206px;
+    top: 134px;
+    overflow: visible;
+    transition: 0.5s;
+}
